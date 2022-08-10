@@ -12,10 +12,10 @@
 - Python
 - HTML & CSS/SASS
 
-### What I'm Studying:
-- TypeScript
-- MongoDB
-- Docker
+### What I'm Building:
+- A cli adventure game
+- Learning management System (Udemy Clone)
+- Both projects are pinned below. You can check my progress there.
 
 ### A little about myself:
 - I am a full stack developer currently living in New York, NY
